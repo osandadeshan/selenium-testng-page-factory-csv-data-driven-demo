@@ -6,7 +6,7 @@ import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 
 /**
- * Project Name    : selenium-testng-page-factory-demo
+ * Project Name    : selenium-testng-page-factory-csv-data-driven-demo
  * Developer       : Osanda Deshan
  * Version         : 1.0.0
  * Date            : 11/3/2019

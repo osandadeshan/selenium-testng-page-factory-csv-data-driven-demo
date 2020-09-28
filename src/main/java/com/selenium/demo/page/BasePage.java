@@ -4,7 +4,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.PageFactory;
 
 /**
- * Project Name    : selenium-testng-page-factory-demo
+ * Project Name    : selenium-testng-page-factory-csv-data-driven-demo
  * Developer       : Osanda Deshan
  * Version         : 1.0.0
  * Date            : 11/3/2019

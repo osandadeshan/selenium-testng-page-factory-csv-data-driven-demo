@@ -11,7 +11,7 @@ import org.openqa.selenium.firefox.FirefoxOptions;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 
 /**
- * Project Name    : selenium-testng-page-factory-demo
+ * Project Name    : selenium-testng-page-factory-csv-data-driven-demo
  * Developer       : Osanda Deshan
  * Version         : 1.0.0
  * Date            : 7/15/2019
